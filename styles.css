@@ -53,8 +53,9 @@ footer {
 }
 
 .set {
-  margin: 0;
+  margin: 0 auto 150px 0;
 }
+
 
 .game-over {
   background-color: red;
